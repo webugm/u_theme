@@ -1,0 +1,21 @@
+body {
+  background: #F5F4E9;
+}
+
+#nav {
+  background: #A5BB8F;
+}
+
+aside{
+  background: #DADEC5;
+  min-height: 450px;
+}
+
+article{
+  min-height: 450px;
+}
+
+#footer {
+  background: #A5BB8F;
+  min-height: 150px;
+}
