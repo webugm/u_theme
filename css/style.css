@@ -19,3 +19,7 @@ article{
   background: #A5BB8F;
   min-height: 150px;
 }
+
+.stellarnav ul {
+  text-align: left;
+}
